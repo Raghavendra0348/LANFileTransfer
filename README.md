@@ -81,7 +81,3 @@ Use `build.bat` to package the server as a Windows executable:
 - To add more dependencies, update `requirements.txt` and `build.bat` if needed
 
 ---
-
-## License
-
-MIT
